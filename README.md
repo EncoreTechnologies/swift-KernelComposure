@@ -1,5 +1,5 @@
 # swift-KernelComposure
-Swift app to parse MacOS kernel panic files.
+Swift app to parse MacOS kernel panic files. Currently requires macOS 10.13+
 
 With the release of macOS 10.15, the formatting of Kernel Panic logs has changed. What used to be able to be easily reviewed, now requires parsing. No need to panic, keep your composure with Encore's Kernel Composure and quickly pull the relevant information from your logs..
 
